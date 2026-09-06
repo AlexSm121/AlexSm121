@@ -1,42 +1,47 @@
-# Olá, eu sou o Alex 👋
+# Olá, eu sou Alexander 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Uninassau Caruaru (previsão de formatura: 2027)
-🔒 Foco principal em **Cybersegurança / Ethical Hacking**
-💻 Interesse secundário em **Desenvolvimento Back-end**
-📍 São Bento do Una, PE - Brasil
+**Estudante de TI** focado em **Cybersegurança / Ethical Hacking**, com interesse em **desenvolvimento Back-end**
 
 ---
 
-### 🚀 Sobre mim
+### 💼 Sobre mim
 
-- 🛡️ Apaixonado por segurança da informação e redes desde a formação técnica
-- 🖥️ Técnico em Redes de Computadores pela ETEGEC (2021–2023)
-- 🧠 Estudando MikroTik e aprofundando conhecimentos práticos em redes
-- 🌱 Sempre aprendendo algo novo em dev e segurança
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninassau Caruaru, com formação técnica em Redes de Computadores pela ETEGEC. Venho construindo uma base prática em redes e me aprofundando em segurança da informação, além de participar de projetos de desenvolvimento full-stack na faculdade.
 
----
-
-### 🛠️ Projetos
-
-**[Cashly](https://github.com/AlexSm121)** — App de finanças pessoais
-- Frontend em React Native/Expo, backend em Spring Boot + MySQL
-- Gráficos interativos (donut chart, gráfico de barras responsivo com tooltips)
-- Integração de endpoints REST (`/income`, `/expense`)
-- Upload de imagem com compressão para Base64
+- 🔭 Foco atual: **Cybersegurança**, ethical hacking e aprofundamento em **redes (MikroTik)**
+- 🚀 Construindo: **Cashly** — app de finanças pessoais (React Native + Spring Boot/MySQL)
+- 🌱 Aprendendo: fundamentos práticos de pentest e hardening de redes
+- 📫 Contato: [LinkedIn](https://linkedin.com/in/alexmatosdev) · [GitHub](https://github.com/AlexSm121)
 
 ---
 
-### 🧰 Tecnologias
+### 🔐 Segurança & Redes
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=databricks&logoColor=white)
+[![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://wireshark.org)
+
+### 💻 Back-end & Banco de Dados
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](#)
+
+### 🎨 Front-end (projetos full-stack)
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+
+### ⚙️ Ferramentas
+
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ---
 
-### 📫 Contato
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmatosdev)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlexSm121)
+![](https://github-readme-stats.vercel.app/api?username=AlexSm121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=AlexSm121&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSm121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
