@@ -48,12 +48,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninassau Caruaru, 
 
 ---
 
-### 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AlexSm121&theme=dracula&no-frame=true&margin-w=10&row=1)
-
----
-
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=AlexSm121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
