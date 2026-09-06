@@ -2,6 +2,8 @@
 
 **Estudante de TI** focado em **Cybersegurança / Ethical Hacking**, com interesse em **desenvolvimento Back-end**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5CD338&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+%7C+Uninassau;Focado+em+Cyberseguran%C3%A7a+%26+Ethical+Hacking;Aprendendo+MikroTik+e+Pentest;Construindo+o+Cashly+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 ---
 
 ### 💼 Sobre mim
@@ -40,8 +42,30 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninassau Caruaru, 
 
 ---
 
+### 🐍 Contribuições
+
+![snake gif](https://raw.githubusercontent.com/AlexSm121/AlexSm121/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🏆 Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AlexSm121&theme=dracula&no-frame=true&margin-w=10&row=1)
+
+---
+
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=AlexSm121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=AlexSm121&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSm121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+### 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AlexSm121&theme=dracula&hide_border=false)
+
+---
+
+![Contador de visitas](https://komarev.com/ghpvc/?username=AlexSm121&color=5CD338&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil)
