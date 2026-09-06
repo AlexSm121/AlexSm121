@@ -2,9 +2,12 @@
 
 **Estudante de TI** focado em **Cybersegurança / Ethical Hacking**, com interesse em **desenvolvimento Back-end**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5CD338&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+%7C+Uninassau;Focado+em+Cyberseguran%C3%A7a+%26+Ethical+Hacking;Aprendendo+MikroTik+e+Pentest;Construindo+o+Cashly+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=140&multiline=true&lines=%24+whoami;alexander_matos;%24+cat+foco.txt;cyberseguranca+%7C+ethical+hacking;%24+.%2Fbuild_cashly.sh;sucesso+%E2%9C%93" alt="Terminal banner" />
+</p>
 
 ---
+
 
 ### 💼 Sobre mim
 
@@ -13,7 +16,10 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninassau Caruaru, 
 - 🔭 Foco atual: **Cybersegurança**, ethical hacking e aprofundamento em **redes (MikroTik)**
 - 🚀 Construindo: **Cashly** — app de finanças pessoais (React Native + Spring Boot/MySQL)
 - 🌱 Aprendendo: fundamentos práticos de pentest e hardening de redes
-- 📫 Contato: [LinkedIn](https://linkedin.com/in/alexmatosdev) · [GitHub](https://github.com/AlexSm121)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmatosdev)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexSm121)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alexanderemanueldev@proton.me)
 
 ---
 
@@ -53,12 +59,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninassau Caruaru, 
 ![](https://github-readme-stats.vercel.app/api?username=AlexSm121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=AlexSm121&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSm121&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-### 📈 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AlexSm121&theme=dracula&hide_border=false)
 
 ---
 
